@@ -28,6 +28,20 @@
   color: #61dafb;
 }
 
+.swiperwrapper {
+  width: 100%;
+  height: max-content !important;
+  padding-bottom: 64px !important;
+  -webkit-transition-timing-function: linear !important;
+  transition-timing-function: linear !important;
+  position: relative;
+  }
+  .swiperpagination-bullet {
+  background: #4F46E5;
+  }
+  .swiperpagination-bullet-active {
+  background: #4F46E5 !important;
+  }
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
