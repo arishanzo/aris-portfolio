@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/aris-portfolio/static/css/main.4b584d10.css",
-    "main.js": "/aris-portfolio/static/js/main.603ff7a6.js",
+    "main.js": "/aris-portfolio/static/js/main.42c18680.js",
     "static/js/453.acca0757.chunk.js": "/aris-portfolio/static/js/453.acca0757.chunk.js",
     "static/media/logo.svg": "/aris-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/aris-portfolio/index.html",
     "main.4b584d10.css.map": "/aris-portfolio/static/css/main.4b584d10.css.map",
-    "main.603ff7a6.js.map": "/aris-portfolio/static/js/main.603ff7a6.js.map",
+    "main.42c18680.js.map": "/aris-portfolio/static/js/main.42c18680.js.map",
     "453.acca0757.chunk.js.map": "/aris-portfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b584d10.css",
-    "static/js/main.603ff7a6.js"
+    "static/js/main.42c18680.js"
   ]
 }
