@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/aris-portfolio/static/css/main.5cc5d678.css",
-    "main.js": "/aris-portfolio/static/js/main.c8b4967a.js",
+    "main.css": "/aris-portfolio/static/css/main.2ff3f866.css",
+    "main.js": "/aris-portfolio/static/js/main.08698f6b.js",
     "static/js/453.acca0757.chunk.js": "/aris-portfolio/static/js/453.acca0757.chunk.js",
     "static/media/logo.svg": "/aris-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/aris-portfolio/index.html",
-    "main.5cc5d678.css.map": "/aris-portfolio/static/css/main.5cc5d678.css.map",
-    "main.c8b4967a.js.map": "/aris-portfolio/static/js/main.c8b4967a.js.map",
+    "main.2ff3f866.css.map": "/aris-portfolio/static/css/main.2ff3f866.css.map",
+    "main.08698f6b.js.map": "/aris-portfolio/static/js/main.08698f6b.js.map",
     "453.acca0757.chunk.js.map": "/aris-portfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5cc5d678.css",
-    "static/js/main.c8b4967a.js"
+    "static/css/main.2ff3f866.css",
+    "static/js/main.08698f6b.js"
   ]
 }
